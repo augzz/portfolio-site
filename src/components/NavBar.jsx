@@ -3,7 +3,7 @@ import { Ghost, Menu, X } from "lucide-react";
 import { useEffect, useState } from "react";
 
 const navItems = [
-  {name: "Home", href: "#home"},
+  {name: "Home", href: "#hero"},
   {name: "About", href: "#about"},
   {name: "Projects", href: "#projects"}
 ]
