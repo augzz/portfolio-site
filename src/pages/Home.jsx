@@ -9,7 +9,6 @@ import { Footer } from "../components/Footer";
 export const Home = () => {
   return (
     <div className="min-h-dvh bg-background text-foreground overflow-x-hidden">
-      <ThemeToggle />
       <StarBackground />
       <NavBar />
       <main>

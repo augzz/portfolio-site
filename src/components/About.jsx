@@ -23,7 +23,7 @@ export const About = () => {
 
             <p className="text-muted-foreground">
               I dabble in web development and game development. I enjoy learning
-              about new technologies and cybersecurity.
+              about new technologies, networking, and cybersecurity.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -62,7 +62,7 @@ export const About = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg"> Game Development </h4>
                   <p className="text-muted-foreground">
-                    Designing and creating games with diverse gameplay mechanics.
+                    Designing and creating games with diverse gameplay mechanics and custom art assets.
                   </p>
                 </div>
               </div>
