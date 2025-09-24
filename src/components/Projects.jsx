@@ -5,7 +5,7 @@ const projects = [
   {
     id: 1,
     title: "Active Directory Lab",
-    description: "Virtual lab built using VirtualBox, Linux, Windows, and Splunk.",
+    description: "Virtual lab environment built using VirtualBox, includes Windows, Linux, and Splunk.",
     image: "/projects/AD_Lab_diagram.png",
     tags: ["Active Directory", "Windows", "Linux", "Splunk"],
     githubUrl: "https://github.com/augzz/AD-Lab"
